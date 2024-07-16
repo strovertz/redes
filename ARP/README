@@ -19,3 +19,4 @@ Quando os dispositivos na rede recebem esses pacotes ARP gratuitos, eles atualiz
 Agora, qualquer tráfego destinado ao gateway é enviado para o atacante.
 O atacante pode interceptar, modificar ou simplesmente observar esse tráfego antes de encaminhá-lo para o gateway real.
 
+## Em segundo plano, exibe uma linha do tempo, para termos noção do tempo entre um pacote e outro.
