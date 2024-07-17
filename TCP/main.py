@@ -15,7 +15,7 @@ def analyze_pcap(pcap_file):
             flags = packet[TCP].flags
 
             # Check for SYN
-            if flags & 0x02:  # SYN
+            if flags & 0x02 and not flags & 0x10:  # SYN and not ACK (SYN packet)
                 syn_count += 1
                 if (src_ip, dst_ip) not in handshake_complete:
                     handshake_complete[(src_ip, dst_ip)] = {'SYN': False, 'SYN-ACK': False, 'ACK': False}
@@ -27,7 +27,7 @@ def analyze_pcap(pcap_file):
                     handshake_complete[(dst_ip, src_ip)]['SYN-ACK'] = True
 
             # Check for ACK
-            elif flags & 0x10:  # ACK
+            elif flags & 0x10 and not flags & 0x02:  # ACK and not SYN (ACK packet)
                 ack_count += 1
                 if (src_ip, dst_ip) in handshake_complete and handshake_complete[(src_ip, dst_ip)]['SYN-ACK']:
                     handshake_complete[(src_ip, dst_ip)]['ACK'] = True
@@ -43,8 +43,8 @@ def analyze_pcap(pcap_file):
     if incomplete_handshakes:
         print("Sinais de possível SYN flood detectados!")
         print("Conexões incompletas (falta ACK final):")
-        #for src_ip, dst_ip in incomplete_handshakes:
-        #    print(f"{src_ip} -> {dst_ip}")
+        for src_ip, dst_ip in incomplete_handshakes:
+            print(f"{src_ip} -> {dst_ip}")
     else:
         print("Não foram encontrados sinais de SYN flood.")
 
