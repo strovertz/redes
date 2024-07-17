@@ -1,0 +1,8 @@
+folium
+geocoder
+geopy
+thread6
+pydivert
+os
+webbrowser
+requests
