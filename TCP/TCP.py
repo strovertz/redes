@@ -20,24 +20,18 @@ def package_load():
         print(res.text)
     exit()
 
-#@thread6.threaded()
-# Use para ler os pacotes que da rede
 def capture_package():
     lista = []; lista2 = []; ips = []; bit = 0
     prefix = ['172', '192', '10.', '127', '255', 'fe8']
     with pydivert.WinDivert() as w:
         for packet in w:
-            #if packet.dst_addr == "3.95.214.97": # ip instancia ec2 com um api/rest rodando em docker
             if packet.direction and packet.src_addr not in ips and packet.src_addr[:3] not in prefix: ips.append(packet.src_addr)
             print(packet)
-            # para checar a porta, implementar if para validar direção e checagem jogar a porta em uma lista
             w.send(packet)
             if bit == 300: break
             bit+=1
-            #else: continue
     return ips
 
-# use pra ler pacotes de um arquivo pcap
 def read_pcap(file_path):
     pcap_ips = []
     prefix = ['172', '192', '10.', '127', '255', 'fe8']
@@ -76,20 +70,17 @@ def analyze_pcap(pcap_file):
             dst_ip = packet[IP].dst
             flags = packet[TCP].flags
 
-            # Check for SYN
-            if flags & 0x02 and not flags & 0x10:  # SYN and not ACK (SYN packet)
+            if flags & 0x02 and not flags & 0x10:
                 syn_count += 1
                 if (src_ip, dst_ip) not in handshake_complete:
                     handshake_complete[(src_ip, dst_ip)] = {'SYN': False, 'SYN-ACK': False, 'ACK': False}
                 handshake_complete[(src_ip, dst_ip)]['SYN'] = True
 
-            # Check for SYN-ACK
-            elif flags & 0x12:  # SYN-ACK
+            elif flags & 0x12:
                 if (dst_ip, src_ip) in handshake_complete:
                     handshake_complete[(dst_ip, src_ip)]['SYN-ACK'] = True
 
-            # Check for ACK
-            elif flags & 0x10 and not flags & 0x02:  # ACK and not SYN (ACK packet) pensamos que estavamos ficando malucos sem nenhum ACK final
+            elif flags & 0x10 and not flags & 0x02:
                 ack_count += 1
                 if (src_ip, dst_ip) in handshake_complete and handshake_complete[(src_ip, dst_ip)]['SYN-ACK']:
                     handshake_complete[(src_ip, dst_ip)]['ACK'] = True
