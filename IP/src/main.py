@@ -17,32 +17,18 @@ def package_load():
         print(res.text)
     exit()
 
-#def count_ports(lista, lista2):
-#    for i in lista:
-#        x = i
-#        d = Counter(lista2)
-#        print('{} has occurred {} times'.format(x, d[x]))
-#    print(lista)
-#    print(lista2)
-
-#@thread6.threaded()
-# Use para ler os pacotes que da rede
 def capture_package():
     lista = []; lista2 = []; ips = []; bit = 0
     prefix = ['172', '192', '10.', '127', '255', 'fe8']
     with pydivert.WinDivert() as w:
         for packet in w:
-            #if packet.dst_addr == "3.95.214.97": # ip instancia ec2 com um api/rest rodando em docker
             if packet.direction and packet.src_addr not in ips and packet.src_addr[:3] not in prefix: ips.append(packet.src_addr)
             print(packet)
-            # para checar a porta, implementar if para validar direção e checagem jogar a porta em uma lista
             w.send(packet)
             if bit == 300: break
             bit+=1
-            #else: continue
     return ips
 
-# use pra ler pacotes de um arquivo pcap
 def read_pcap(file_path):
     pcap_ips = []
     prefix = ['172', '192', '10.', '127', '255', 'fe8']
@@ -73,14 +59,11 @@ def insert_locs(ips):
 
 def main():
     file_path = "files/trabalho1.pcapng"
-    #thread6.run_threaded(package_load)
-    #thread6.run_threaded(capture_package)
     fake_debug = False
     if fake_debug:
         ip_capture = capture_package()
     else: ip_capture = None
     ip_pcap = read_pcap(file_path)
-    #ips =  ip_capture #+ ip_pcap
     insert_locs(ip_pcap)
 
 
