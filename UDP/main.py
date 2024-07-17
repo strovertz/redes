@@ -1,88 +1,61 @@
-import pydivert
-import requests
-import thread6
-import os
-import webbrowser
-from scapy.utils import RawPcapReader
-from scapy.layers.l2 import Ether
-from scapy.layers.inet import IP
-from collections import Counter
-from get_loc import *
-from map import *
+from scapy.all import *
+from scapy.all import UDP, rdpcap
+import matplotlib.pyplot as plt
 
-@thread6.threaded()
-def package_load():
-    for i in range(100):
-        res = requests.get('http://ec2-3-95-214-97.compute-1.amazonaws.com:8080/health')
-        print(res.text)
-    exit()
 
-#def count_ports(lista, lista2):
-#    for i in lista:
-#        x = i
-#        d = Counter(lista2)
-#        print('{} has occurred {} times'.format(x, d[x]))
-#    print(lista)
-#    print(lista2)
+def attack_detect(attack_threshold, protocols):
+    return {proto: info["count"] > attack_threshold for proto, info in protocols.items()}
 
-#@thread6.threaded()
-# Use para ler os pacotes que da rede
-def capture_package():
-    lista = []; lista2 = []; ips = []; bit = 0
-    prefix = ['172', '192', '10.', '127', '255', 'fe8']
-    with pydivert.WinDivert() as w:
-        for packet in w:
-            #if packet.dst_addr == "3.95.214.97": # ip instancia ec2 com um api/rest rodando em docker
-            if packet.direction and packet.src_addr not in ips and packet.src_addr[:3] not in prefix: ips.append(packet.src_addr)
-            print(packet)
-            # para checar a porta, implementar if para validar direção e checagem jogar a porta em uma lista
-            w.send(packet)
-            if bit == 300: break
-            bit+=1
-            #else: continue
-    return ips
+def cria_grafico(protocols, attack_detected):
+    protocol_names = list(protocols.keys())
+    protocol_counts = [info["count"] for info in protocols.values()]
 
-# use pra ler pacotes de um arquivo pcap
-def read_pcap(file_path):
-    pcap_ips = []
-    prefix = ['172', '192', '10.', '127', '255', 'fe8']
-    for (packet_data, packet_metadata,) in RawPcapReader(file_path):
-        packet_eth = Ether(packet_data)
-        #ignora se nao for ipv4
-        if packet_eth.type != 0x0800:
-            continue
-        packet_ip = packet_eth[IP]
-        if packet_ip.proto != 6:
-           continue
-        if packet_ip.src[:3] not in prefix and packet_ip.src not in pcap_ips: pcap_ips.append(packet_ip.src)
-    return pcap_ips
+    plt.figure(figsize=(10, 6))
 
-def insert_locs(ips):
-    mapa = create_map([-29.6894956, -53.811126])
-    address = process_ips(ips)
-    print(address)
-    j = 0
-    for i in address:
-        if len(i) > 1: infos = get_infos(ips[j]); mapa = set_markup(mapa, i, ips[j], infos); print(f'Lat,Lon de ip \'{j}\': {i}')
-        j+=1
-    if len(address) > 0: mapa = set_markup(mapa,[len(address)-2,len(address)-1], ips[len(ips)-1], get_infos(ips[len(ips)-1]))
-    mapa.save("map/my_map1.html")
-    print('Mapa Salvo em ../map/')
-    filename = 'file:///'+os.getcwd()+'/' + 'map/my_map1.html'
-    webbrowser.open_new_tab(filename)
+    colors = ['blue' if not attack_detected[proto] else 'red' for proto in protocol_names]
 
-def main():
-    file_path = "files/trabalho1.pcapng"
-    #thread6.run_threaded(package_load)
-    #thread6.run_threaded(capture_package)
-    fake_debug = False
-    if fake_debug:
-        ip_capture = capture_package()
-    else: ip_capture = None
-    ip_pcap = read_pcap(file_path)
-    #ips =  ip_capture #+ ip_pcap
-    insert_locs(ip_pcap)
+    plt.bar(protocol_names, protocol_counts, color=colors)
+    plt.xlabel('Protocolos')
+    plt.ylabel('Número de Pacotes')
+    plt.title('Contagem de Pacotes por Protocolo')
 
+    legend_labels = [plt.Rectangle((0,0),1,1, color=color) for color in ['blue', 'red']]
+    plt.legend(legend_labels, ['Normal', 'Possível Ataque'])
+
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+
+    plt.show()
+
+def count_specific_protocols(filename):
+    protocols = {
+        "DNS": {"port": 53, "count": 0},
+        "HTTP": {"port": 80, "count": 0},
+        "SSDP": {"port": 1900, "count": 0},
+        "CLDAP": {"port": 389, "count": 0},
+        "NTP": {"port": 123, "count": 0},
+        "ICMP": {"port": 1, "count": 0},
+        "SYSLOG": {"port": 514, "count": 0}
+    }
+
+    packets = rdpcap(filename)
+    print(len(packets))
+    for packet in packets:
+        if packet.haslayer(UDP):
+            udp_packet = packet[UDP]
+            for proto, info in protocols.items():
+                if udp_packet.dport == info["port"] or udp_packet.sport == info["port"]:
+                    protocols[proto]["count"] += 1
+                    break
+
+    attack_detected = attack_detect(attack_threshold = (len(packets) * 0.4), protocols = protocols)
+
+    print("Protocolos específicos:")
+    for proto, info in protocols.items():
+        print(f"{proto}: {info['count']} pacotes")
+
+    cria_grafico(protocols, attack_detected)
 
 if __name__ == "__main__":
-    main()
+    pcap_file = "udp.pcap"
+    count_specific_protocols(pcap_file)
