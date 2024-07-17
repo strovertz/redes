@@ -34,4 +34,4 @@ Copiar código
 
 ```
 ## Script PHP
-O script PHP lê o arquivo JSON e exibe os dados em uma tabela HTML estruturada.
+O script PHP lê o arquivo JSON e exibe os dados em uma tabela HTML estruturada. Mostrando o nome do domínio requisitado a quantidade de requisições no tráfego, a quantidade de respostas a requisição, o IP mais próximo geograficamente seu TTL e Name. 
