@@ -1,0 +1,34 @@
+# RIP
+
+Este script Python analisa um ar pcap em busca de pacotes RIP válidos e visualiza as rotas de rede encontradas utilizando o NetworkX e Matplotlib.
+
+## Requisitos
+
+- Python 3.x
+- Bibliotecas necessárias: scapy, networkx, matplotlib, tkinter
+
+## Dependências
+
+```bash
+pip install scapy networkx matplotlib
+```
+
+## Uso
+
+1. Coloque seu arquivo pcap (por exemplo, RIP.pcap) na mesma pasta que este script.
+2. Execute `python rip.py`.
+3. O script irá analisar o arquivo pcap em busca de pacotes RIP válidos.
+4. Se pacotes RIP válidos forem encontrados, um gráfico mostrando as rotas será exibido.
+5. Caso contrário, uma mensagem informando a ausência de pacotes RIP válidos será exibida.
+
+
+## Detalhes
+
+- **get_edges(rip_packets)**: Extrai informações de roteamento de pacotes RIP e constrói um grafo direcionado usando NetworkX.
+- **plot_graph(G)**: Visualiza o grafo de rotas utilizando Matplotlib, atribuindo cores diferentes com base na métrica de roteamento.
+
+## Exemplo de Saída
+
+![Exemplo de Saída](img/image.png)
+
+---
