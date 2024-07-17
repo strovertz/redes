@@ -1,0 +1,4915 @@
+{
+    "www.google.com": {
+        "count": 18,
+        "responses": [
+            {
+                "ip": "142.251.129.100",
+                "ttl": 300,
+                "rrname": "www.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "mobile.events.data.microsoft.com": {
+        "count": 6,
+        "responses": [
+            {
+                "ip": "52.182.143.211",
+                "ttl": 0,
+                "rrname": "onedscolprdcus13.centralus.cloudapp.azure.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "www.blogger.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.9",
+                "ttl": 114,
+                "rrname": "blogger.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "youtube.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.110",
+                "ttl": 83,
+                "rrname": "youtube.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "wordpress.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "198.143.164.252",
+                "ttl": 584,
+                "rrname": "wordpress.org",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "linkedin.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "13.107.42.14",
+                "ttl": 170,
+                "rrname": "linkedin.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "apple.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "17.253.144.10",
+                "ttl": 421,
+                "rrname": "apple.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "support.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.217.162.110",
+                "ttl": 300,
+                "rrname": "support.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "microsoft.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "20.231.239.246",
+                "ttl": 2587,
+                "rrname": "microsoft.com",
+                "response_count": 5
+            }
+        ],
+        "response_count": 0
+    },
+    "docs.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.110",
+                "ttl": 292,
+                "rrname": "docs.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "en.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 154,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "youtu.be": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "172.217.28.14",
+                "ttl": 112,
+                "rrname": "youtu.be",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "maps.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.132.14",
+                "ttl": 163,
+                "rrname": "maps.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "cloudflare.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "104.16.132.229",
+                "ttl": 289,
+                "rrname": "cloudflare.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "copilot-telemetry.githubusercontent.com": {
+        "count": 4,
+        "responses": [
+            {
+                "ip": "140.82.114.22",
+                "ttl": 0,
+                "rrname": "glb-db52c2cf8be544.github.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "play.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.142",
+                "ttl": 300,
+                "rrname": "play.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "adobe.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "2.16.197.210",
+                "ttl": 8,
+                "rrname": "adobe.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "whatsapp.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "157.240.226.60",
+                "ttl": 33,
+                "rrname": "whatsapp.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "drive.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.110",
+                "ttl": 255,
+                "rrname": "drive.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "sites.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.206",
+                "ttl": 299,
+                "rrname": "sites.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "plus.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.217.173.110",
+                "ttl": 81,
+                "rrname": "plus.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "accounts.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.45",
+                "ttl": 296,
+                "rrname": "accounts.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "facebook.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "157.240.226.35",
+                "ttl": 228,
+                "rrname": "facebook.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "vk.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "93.186.225.194",
+                "ttl": 732,
+                "rrname": "vk.com",
+                "response_count": 6
+            }
+        ],
+        "response_count": 0
+    },
+    "amazon.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "54.239.28.85",
+                "ttl": 453,
+                "rrname": "amazon.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "uol.com.br": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "200.147.35.149",
+                "ttl": 57,
+                "rrname": "uol.com.br",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "vimeo.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "162.159.138.60",
+                "ttl": 13,
+                "rrname": "vimeo.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "policies.google.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "142.251.129.110",
+                "ttl": 114,
+                "rrname": "policies.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "github.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "20.201.28.151",
+                "ttl": 9,
+                "rrname": "github.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "istockphoto.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "52.84.83.50",
+                "ttl": 19,
+                "rrname": "istockphoto.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "search.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.132.14",
+                "ttl": 233,
+                "rrname": "www3.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "enable-javascript.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "34.90.220.148",
+                "ttl": 300,
+                "rrname": "enable-javascript.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "dropbox.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "162.125.248.18",
+                "ttl": 42,
+                "rrname": "dropbox.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "live.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "204.79.197.212",
+                "ttl": 2445,
+                "rrname": "live.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "cpanel.net": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.74.121.151",
+                "ttl": 203,
+                "rrname": "cpanel.net",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "google.es": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.132.227",
+                "ttl": 18,
+                "rrname": "google.es",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "developers.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.46",
+                "ttl": 117,
+                "rrname": "developers.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "www.weebly.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "74.115.50.110",
+                "ttl": 511,
+                "rrname": "weebly.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "files.wordpress.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "192.0.72.2",
+                "ttl": 300,
+                "rrname": "files.wordpress.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "wikimedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 278,
+                "rrname": "wikimedia.org",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "draft.blogger.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.9",
+                "ttl": 83,
+                "rrname": "blogger.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "cnn.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.131.5",
+                "ttl": 60,
+                "rrname": "cnn.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "gstatic.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "142.250.219.131",
+                "ttl": 211,
+                "rrname": "gstatic.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "creativecommons.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.20.150.16",
+                "ttl": 40,
+                "rrname": "creativecommons.org",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "jimdofree.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.2.217",
+                "ttl": 3475,
+                "rrname": "jimdofree.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "workspace.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.217.28.238",
+                "ttl": 272,
+                "rrname": "workspace.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "google.com.br": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "216.58.222.3",
+                "ttl": 66,
+                "rrname": "google.com.br",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "brandbucket.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "172.67.4.41",
+                "ttl": 300,
+                "rrname": "brandbucket.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "tools.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.142",
+                "ttl": 161,
+                "rrname": "tools.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "medium.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "162.159.153.4",
+                "ttl": 233,
+                "rrname": "medium.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "theguardian.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.1.111",
+                "ttl": 3600,
+                "rrname": "theguardian.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "dailymotion.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "195.8.215.136",
+                "ttl": 86400,
+                "rrname": "dailymotion.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "tiktok.com": {
+        "count": 22,
+        "responses": [
+            {
+                "ip": "3.162.247.128",
+                "ttl": 34,
+                "rrname": "tiktok.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "nytimes.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.129.164",
+                "ttl": 91,
+                "rrname": "nytimes.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "myspace.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "34.111.176.156",
+                "ttl": 60,
+                "rrname": "myspace.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "es.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 600,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "slideshare.net": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.2.152",
+                "ttl": 45,
+                "rrname": "slideshare.net",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "bbc.co.uk": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "151.101.128.81",
+                "ttl": 213,
+                "rrname": "bbc.co.uk",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "mail.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.5",
+                "ttl": 285,
+                "rrname": "mail.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "globo.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "186.192.90.12",
+                "ttl": 34,
+                "rrname": "globo.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "ok.ru": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "217.20.155.13",
+                "ttl": 276,
+                "rrname": "ok.ru",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "news.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.250.219.174",
+                "ttl": 66,
+                "rrname": "news.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "w3.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.18.23.19",
+                "ttl": 3600,
+                "rrname": "w3.org",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "googleblog.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "142.251.128.33",
+                "ttl": 167,
+                "rrname": "googleblog.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "paypal.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "64.4.250.37",
+                "ttl": 294,
+                "rrname": "paypal.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "goo.gl": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.250.219.206",
+                "ttl": 267,
+                "rrname": "goo.gl",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "imdb.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "52.94.225.248",
+                "ttl": 203,
+                "rrname": "imdb.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "netvibes.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "193.189.143.34",
+                "ttl": 800,
+                "rrname": "netvibes.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "pt.wikipedia.org": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 210,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "feedburner.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.78",
+                "ttl": 227,
+                "rrname": "feedburner.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "fr.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 187,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "google.de": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.163",
+                "ttl": 192,
+                "rrname": "google.de",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "wa.me": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "157.240.222.60",
+                "ttl": 47,
+                "rrname": "wa.me",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "www.yahoo.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "200.152.164.204",
+                "ttl": 9,
+                "rrname": "me-ycpi-cf-www.g06.yahoodns.net",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "gravatar.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "192.0.80.242",
+                "ttl": 56,
+                "rrname": "gravatar.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "fb.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "157.240.226.35",
+                "ttl": 258,
+                "rrname": "fb.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "indiatimes.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.195.177.113",
+                "ttl": 10,
+                "rrname": "indiatimes.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "time.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.158.172.106",
+                "ttl": 36,
+                "rrname": "time.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "t.co": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "104.244.42.5",
+                "ttl": 13,
+                "rrname": "t.co",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "archive.org": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "207.241.224.2",
+                "ttl": 105,
+                "rrname": "archive.org",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "aboutads.info": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "18.67.145.76",
+                "ttl": 60,
+                "rrname": "aboutads.info",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "de.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 110,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "spotify.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "35.186.224.25",
+                "ttl": 278,
+                "rrname": "spotify.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "shopify.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "23.227.38.33",
+                "ttl": 34,
+                "rrname": "shopify.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "huffpost.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "65.8.214.47",
+                "ttl": 12,
+                "rrname": "huffpost.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "wp.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "192.0.78.24",
+                "ttl": 14400,
+                "rrname": "wp.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "who.int": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.17.113.188",
+                "ttl": 353,
+                "rrname": "who.int",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "amazon.co.jp": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "52.119.161.5",
+                "ttl": 50,
+                "rrname": "amazon.co.jp",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "afternic.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "216.69.141.26",
+                "ttl": 3600,
+                "rrname": "afternic.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "independent.co.uk": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "151.101.65.184",
+                "ttl": 289,
+                "rrname": "independent.co.uk",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "change.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.17.88.51",
+                "ttl": 921,
+                "rrname": "change.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "picasaweb.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "216.58.222.14",
+                "ttl": 149,
+                "rrname": "picasaweb.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "bloomberg.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "3.33.146.110",
+                "ttl": 322,
+                "rrname": "bloomberg.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "discord.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "162.159.128.233",
+                "ttl": 261,
+                "rrname": "discord.com",
+                "response_count": 5
+            }
+        ],
+        "response_count": 0
+    },
+    "pinterest.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "151.101.64.84",
+                "ttl": 519,
+                "rrname": "pinterest.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "telegraph.co.uk": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "18.64.174.83",
+                "ttl": 14,
+                "rrname": "telegraph.co.uk",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "bit.ly": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "67.199.248.11",
+                "ttl": 128,
+                "rrname": "bit.ly",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "hatena.ne.jp": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "18.182.143.244",
+                "ttl": 26,
+                "rrname": "hatena.ne.jp",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "mail.ru": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "217.69.139.200",
+                "ttl": 27,
+                "rrname": "mail.ru",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "thesun.co.uk": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "192.0.66.2",
+                "ttl": 133,
+                "rrname": "thesun.co.uk",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "google.co.uk": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.3",
+                "ttl": 145,
+                "rrname": "google.co.uk",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "news.yahoo.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "200.152.164.204",
+                "ttl": 60,
+                "rrname": "me-ycpi-cf.news.g06.yahoodns.net",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "ovh.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "198.27.92.1",
+                "ttl": 52,
+                "rrname": "ovh.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "bing.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "204.79.197.200",
+                "ttl": 2369,
+                "rrname": "bing.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "plesk.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.64.147.135",
+                "ttl": 140,
+                "rrname": "plesk.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "forbes.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "151.101.130.49",
+                "ttl": 79990,
+                "rrname": "forbes.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "yadi.sk": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "87.250.250.50",
+                "ttl": 3600,
+                "rrname": "yadi.sk",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "ig.com.br": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "54.198.170.253",
+                "ttl": 300,
+                "rrname": "ig.com.br",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "elpais.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "92.123.2.19",
+                "ttl": 14,
+                "rrname": "elpais.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "wsj.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "13.227.97.83",
+                "ttl": 34,
+                "rrname": "wsj.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "issuu.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "151.101.66.110",
+                "ttl": 11,
+                "rrname": "issuu.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "namecheap.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "198.54.117.250",
+                "ttl": 9,
+                "rrname": "namecheap.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "forms.gle": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "199.36.158.100",
+                "ttl": 2149,
+                "rrname": "forms.gle",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "google.co.jp": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.163",
+                "ttl": 171,
+                "rrname": "google.co.jp",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "westus-0.in.applicationinsights.azure.com": {
+        "count": 10,
+        "responses": [
+            {
+                "ip": "20.189.172.32",
+                "ttl": 0,
+                "rrname": "gig-ai-prod-wus-0-app-v4-tag.westus.cloudapp.azure.com",
+                "response_count": 5
+            }
+        ],
+        "response_count": 0
+    },
+    "amazon.de": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "52.95.120.34",
+                "ttl": 41,
+                "rrname": "amazon.de",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "cbsnews.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "151.101.193.188",
+                "ttl": 22,
+                "rrname": "cbsnews.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "hugedomains.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.26.6.37",
+                "ttl": 96,
+                "rrname": "hugedomains.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "reuters.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "167.68.44.27",
+                "ttl": 86,
+                "rrname": "reuters.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "booking.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.158.147.103",
+                "ttl": 5,
+                "rrname": "booking.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "terra.com.br": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.84.244.116",
+                "ttl": 330,
+                "rrname": "terra.com.br",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "businessinsider.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.1.171",
+                "ttl": 10861,
+                "rrname": "businessinsider.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "fandom.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "199.232.212.194",
+                "ttl": 60,
+                "rrname": "fandom.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "google.it": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.67",
+                "ttl": 41,
+                "rrname": "google.it",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "cnet.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "34.149.196.126",
+                "ttl": 64556,
+                "rrname": "cnet.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "researchgate.net": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.17.32.105",
+                "ttl": 3600,
+                "rrname": "researchgate.net",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "instagram.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "31.13.90.174",
+                "ttl": 36,
+                "rrname": "instagram.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "4shared.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "204.155.149.43",
+                "ttl": 3600,
+                "rrname": "4shared.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "myaccount.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.205",
+                "ttl": 154,
+                "rrname": "myaccount.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "huffingtonpost.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "52.84.83.66",
+                "ttl": 17,
+                "rrname": "huffingtonpost.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "nature.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "199.232.36.95",
+                "ttl": 10,
+                "rrname": "nature.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "soundcloud.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "65.8.214.106",
+                "ttl": 49,
+                "rrname": "soundcloud.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "buydomains.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.18.41.145",
+                "ttl": 34,
+                "rrname": "buydomains.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "photos.google.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "142.251.132.46",
+                "ttl": 209,
+                "rrname": "photos.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "dan.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "2.16.197.85",
+                "ttl": 20,
+                "rrname": "dan.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "get.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.250.218.238",
+                "ttl": 107,
+                "rrname": "get.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "adssettings.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.46",
+                "ttl": 27,
+                "rrname": "www3.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "aliexpress.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "47.246.173.30",
+                "ttl": 369,
+                "rrname": "aliexpress.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "networkadvertising.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "3.163.10.6",
+                "ttl": 60,
+                "rrname": "networkadvertising.org",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "estadao.com.br": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "92.123.8.46",
+                "ttl": 20,
+                "rrname": "estadao.com.br",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "bbc.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.192.81",
+                "ttl": 289,
+                "rrname": "bbc.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "storage.googleapis.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.250.219.27",
+                "ttl": 147,
+                "rrname": "storage.googleapis.com",
+                "response_count": 16
+            }
+        ],
+        "response_count": 0
+    },
+    "google.fr": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.250.219.35",
+                "ttl": 95,
+                "rrname": "google.fr",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "www.gov.uk": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.64.144",
+                "ttl": 16,
+                "rrname": "www-gov-uk.map.fastly.net",
+                "response_count": 6
+            }
+        ],
+        "response_count": 0
+    },
+    "dailymail.co.uk": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "92.123.4.168",
+                "ttl": 7,
+                "rrname": "dailymail.co.uk",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "mediafire.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.16.113.74",
+                "ttl": 75,
+                "rrname": "mediafire.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "scribd.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.130.152",
+                "ttl": 172,
+                "rrname": "scribd.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "shutterstock.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "99.83.219.164",
+                "ttl": 190,
+                "rrname": "shutterstock.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "amazon.co.uk": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "178.236.7.220",
+                "ttl": 12,
+                "rrname": "amazon.co.uk",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "domainmarket.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.66.40.121",
+                "ttl": 300,
+                "rrname": "domainmarket.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "abril.com.br": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "192.0.66.160",
+                "ttl": 598,
+                "rrname": "abril.com.br",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "usatoday.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "146.75.30.62",
+                "ttl": 7200,
+                "rrname": "usatoday.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "tinyurl.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.67.1.225",
+                "ttl": 28,
+                "rrname": "tinyurl.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "washingtonpost.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.10.49.147",
+                "ttl": 16,
+                "rrname": "washingtonpost.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "twitter.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.244.42.65",
+                "ttl": 1648,
+                "rrname": "twitter.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "pixabay.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "104.18.40.96",
+                "ttl": 26,
+                "rrname": "pixabay.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "msn.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "204.79.197.219",
+                "ttl": 2140,
+                "rrname": "msn.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "ru.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 600,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "reg.ru": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "194.67.72.31",
+                "ttl": 86400,
+                "rrname": "reg.ru",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "prezi.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "99.83.220.209",
+                "ttl": 100,
+                "rrname": "prezi.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "windows.net": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "20.231.239.246",
+                "ttl": 582,
+                "rrname": "windows.net",
+                "response_count": 5
+            }
+        ],
+        "response_count": 0
+    },
+    "springer.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "199.232.36.95",
+                "ttl": 28,
+                "rrname": "springer.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "yandex.ru": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "5.255.255.77",
+                "ttl": 246,
+                "rrname": "yandex.ru",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "lemonde.fr": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.2.137",
+                "ttl": 14,
+                "rrname": "lemonde.fr",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "timeweb.ru": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "185.65.148.89",
+                "ttl": 370,
+                "rrname": "timeweb.ru",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "books.google.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "142.251.128.14",
+                "ttl": 210,
+                "rrname": "books.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "cambridge.org": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "104.17.50.120",
+                "ttl": 256,
+                "rrname": "cambridge.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "gofundme.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "3.163.10.100",
+                "ttl": 33,
+                "rrname": "gofundme.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "pexels.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.16.234.10",
+                "ttl": 48,
+                "rrname": "pexels.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "imageshack.us": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.94.3.18",
+                "ttl": 78,
+                "rrname": "imageshack.us",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "addtoany.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.22.70.197",
+                "ttl": 212,
+                "rrname": "addtoany.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "cpanel.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.67.214.21",
+                "ttl": 143,
+                "rrname": "cpanel.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "code.google.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "142.250.219.206",
+                "ttl": 300,
+                "rrname": "code.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "ea.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.213.10.146",
+                "ttl": 9,
+                "rrname": "ea.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "ft.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.130.209",
+                "ttl": 3566,
+                "rrname": "ft.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "loc.gov": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.16.54.16",
+                "ttl": 157,
+                "rrname": "loc.gov",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "taringa.net": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.16.249.39",
+                "ttl": 300,
+                "rrname": "taringa.net",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "abc.es": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "2.16.197.80",
+                "ttl": 15,
+                "rrname": "abc.es",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "ikea.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "23.10.58.89",
+                "ttl": 5,
+                "rrname": "ikea.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "unsplash.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.65.181",
+                "ttl": 2629,
+                "rrname": "unsplash.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "gooyaabitemplates.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.67.75.71",
+                "ttl": 300,
+                "rrname": "gooyaabitemplates.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "spiegel.de": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "128.65.210.8",
+                "ttl": 66,
+                "rrname": "spiegel.de",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "qq.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "113.108.81.189",
+                "ttl": 361,
+                "rrname": "qq.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "www.canalblog.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.18.36.159",
+                "ttl": 300,
+                "rrname": "www.canalblog.com.cdn.cloudflare.net",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "gizmodo.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "151.101.130.166",
+                "ttl": 2933,
+                "rrname": "gizmodo.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "photobucket.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "18.64.174.15",
+                "ttl": 60,
+                "rrname": "photobucket.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "weibo.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "36.51.224.114",
+                "ttl": 5,
+                "rrname": "weibo.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "hindustantimes.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "2.20.20.222",
+                "ttl": 2,
+                "rrname": "hindustantimes.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "bloglovin.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.26.6.251",
+                "ttl": 220,
+                "rrname": "bloglovin.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "nypost.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "192.0.66.32",
+                "ttl": 48,
+                "rrname": "nypost.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "rakuten.co.jp": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "133.237.16.234",
+                "ttl": 92,
+                "rrname": "rakuten.co.jp",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "freepik.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "35.190.81.132",
+                "ttl": 80163,
+                "rrname": "freepik.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "zippyshare.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "145.239.9.15",
+                "ttl": 3600,
+                "rrname": "zippyshare.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "goodreads.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "52.94.237.126",
+                "ttl": 46,
+                "rrname": "goodreads.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "plos.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "162.159.134.42",
+                "ttl": 8,
+                "rrname": "plos.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "target.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "151.101.66.187",
+                "ttl": 3503,
+                "rrname": "target.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "bp2.blogger.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.46",
+                "ttl": 300,
+                "rrname": "bloggerphotos.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "google.nl": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.250.219.195",
+                "ttl": 88,
+                "rrname": "google.nl",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "kickstarter.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.18.38.159",
+                "ttl": 300,
+                "rrname": "kickstarter.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "theatlantic.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.2.133",
+                "ttl": 37014,
+                "rrname": "theatlantic.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "bp1.blogger.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.110",
+                "ttl": 300,
+                "rrname": "bloggerphotos.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "npr.org": {
+        "count": 22,
+        "responses": [
+            {
+                "ip": "3.163.10.79",
+                "ttl": 31,
+                "rrname": "npr.org",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "telegra.ph": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "149.154.164.13",
+                "ttl": 299,
+                "rrname": "telegra.ph",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "linktr.ee": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.2.133",
+                "ttl": 56,
+                "rrname": "linktr.ee",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "ovhcloud.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "54.39.46.56",
+                "ttl": 60,
+                "rrname": "ovhcloud.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "000webhost.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.17.163.41",
+                "ttl": 289,
+                "rrname": "000webhost.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "yahoo.co.jp": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "183.79.249.252",
+                "ttl": 91,
+                "rrname": "yahoo.co.jp",
+                "response_count": 18
+            }
+        ],
+        "response_count": 0
+    },
+    "sapo.pt": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "213.13.146.142",
+                "ttl": 32,
+                "rrname": "sapo.pt",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "ca.gov": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "13.87.221.220",
+                "ttl": 30,
+                "rrname": "ca.gov",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "ted.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "44.216.209.171",
+                "ttl": 60,
+                "rrname": "ted.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "buzzfeed.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.158.147.77",
+                "ttl": 42,
+                "rrname": "buzzfeed.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "techcrunch.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "76.13.32.141",
+                "ttl": 212,
+                "rrname": "techcrunch.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "vistaprint.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.64.147.146",
+                "ttl": 182,
+                "rrname": "vistaprint.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "zoom.us": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "170.114.52.2",
+                "ttl": 43,
+                "rrname": "zoom.us",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "pinterest.fr": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.128.84",
+                "ttl": 280,
+                "rrname": "pinterest.fr",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "www.livejournal.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "81.19.74.0",
+                "ttl": 600,
+                "rrname": "livejournal.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "sputniknews.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "194.190.139.3",
+                "ttl": 89,
+                "rrname": "sputniknews.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "rapidshare.com": {
+        "count": 20,
+        "responses": [],
+        "response_count": 0
+    },
+    "insider.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.66.217",
+                "ttl": 2568,
+                "rrname": "insider.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "sciencedaily.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.158.172.74",
+                "ttl": 18,
+                "rrname": "sciencedaily.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "sfgate.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "98.129.228.59",
+                "ttl": 2890,
+                "rrname": "sfgate.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "canva.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.16.224.149",
+                "ttl": 102,
+                "rrname": "canva.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "dropcatch.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.22.4.77",
+                "ttl": 5,
+                "rrname": "dropcatch.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "home.pl": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "212.85.96.183",
+                "ttl": 3600,
+                "rrname": "home.pl",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "translate.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.250.218.238",
+                "ttl": 172,
+                "rrname": "www3.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "photos1.blogger.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.132.4",
+                "ttl": 300,
+                "rrname": "photos1.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "groups.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "216.239.36.177",
+                "ttl": 75,
+                "rrname": "groups-alv.google.com",
+                "response_count": 5
+            }
+        ],
+        "response_count": 0
+    },
+    "ietf.org": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "104.16.45.99",
+                "ttl": 271,
+                "rrname": "ietf.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "ouest-france.fr": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "217.70.184.38",
+                "ttl": 10800,
+                "rrname": "ouest-france.fr",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "ipv4.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.250.218.78",
+                "ttl": 57,
+                "rrname": "ipv4.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "wikia.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.192.194",
+                "ttl": 2296,
+                "rrname": "wikia.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "instructables.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.65.105",
+                "ttl": 513,
+                "rrname": "instructables.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "elsevier.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "43.245.43.18",
+                "ttl": 728,
+                "rrname": "elsevier.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "amazon.es": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "54.239.33.90",
+                "ttl": 2,
+                "rrname": "amazon.es",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "steampowered.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.104.134.40",
+                "ttl": 16,
+                "rrname": "steampowered.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "20minutos.es": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "18.64.174.61",
+                "ttl": 60,
+                "rrname": "20minutos.es",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "latimes.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "13.248.222.133",
+                "ttl": 2,
+                "rrname": "latimes.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "oup.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "75.2.119.185",
+                "ttl": 184,
+                "rrname": "oup.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "tmz.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.139.182.77",
+                "ttl": 3,
+                "rrname": "tmz.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "sedo.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.16.141.114",
+                "ttl": 33,
+                "rrname": "sedo.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "ziddu.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "51.81.174.128",
+                "ttl": 14400,
+                "rrname": "ziddu.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "www.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 207,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "stackoverflow.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.18.32.7",
+                "ttl": 285,
+                "rrname": "stackoverflow.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "huawei.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "121.37.49.12",
+                "ttl": 330,
+                "rrname": "huawei.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "icann.org": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "192.0.43.7",
+                "ttl": 182,
+                "rrname": "icann.org",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "nydailynews.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "13.248.129.219",
+                "ttl": 19391,
+                "rrname": "nydailynews.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "espn.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.139.166.120",
+                "ttl": 41,
+                "rrname": "espn.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "doubleclick.net": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.142",
+                "ttl": 32,
+                "rrname": "doubleclick.net",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "unesco.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "193.242.192.41",
+                "ttl": 14400,
+                "rrname": "unesco.org",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "economist.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.18.42.19",
+                "ttl": 48,
+                "rrname": "economist.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "ovh.net": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "54.39.46.56",
+                "ttl": 20,
+                "rrname": "ovh.net",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "yandex.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "77.88.55.80",
+                "ttl": 71,
+                "rrname": "yandex.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "e-monsite.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.21.235.30",
+                "ttl": 300,
+                "rrname": "e-monsite.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "ibm.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.65.129.148",
+                "ttl": 5,
+                "rrname": "ibm.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "cbc.ca": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.76.48.143",
+                "ttl": 16,
+                "rrname": "cbc.ca",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "finance.yahoo.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "200.152.164.204",
+                "ttl": 60,
+                "rrname": "edge.gycpi.b.yahoodns.net",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "amzn.to": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "67.199.248.13",
+                "ttl": 658,
+                "rrname": "amzn.to",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "m.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 600,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "nginx.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "185.56.152.165",
+                "ttl": 45,
+                "rrname": "nginx.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "wired.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.130.194",
+                "ttl": 3600,
+                "rrname": "wired.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "bandcamp.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "151.101.130.132",
+                "ttl": 212,
+                "rrname": "bandcamp.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "mit.edu": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.58.225.247",
+                "ttl": 13,
+                "rrname": "mit.edu",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "marca.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "34.147.120.111",
+                "ttl": 99,
+                "rrname": "marca.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "sciencedirect.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "162.159.137.70",
+                "ttl": 76,
+                "rrname": "sciencedirect.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "psychologytoday.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "52.21.125.208",
+                "ttl": 60,
+                "rrname": "psychologytoday.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "walmart.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.89.248.129",
+                "ttl": 6,
+                "rrname": "walmart.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "abc.net.au": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "92.123.4.89",
+                "ttl": 11,
+                "rrname": "abc.net.au",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "dreamstime.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "169.62.154.245",
+                "ttl": 549,
+                "rrname": "dreamstime.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "addthis.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.38.84.123",
+                "ttl": 471,
+                "rrname": "addthis.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "offset.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "13.248.154.180",
+                "ttl": 300,
+                "rrname": "offset.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "elmundo.es": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "34.90.247.117",
+                "ttl": 71,
+                "rrname": "elmundo.es",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "tripadvisor.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.66.28",
+                "ttl": 19,
+                "rrname": "tripadvisor.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "amazonaws.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "207.171.166.22",
+                "ttl": 233,
+                "rrname": "amazonaws.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "newyorker.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.192.239",
+                "ttl": 162,
+                "rrname": "newyorker.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "smh.com.au": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.66.133",
+                "ttl": 250,
+                "rrname": "smh.com.au",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "mystrikingly.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "18.67.129.66",
+                "ttl": 53,
+                "rrname": "mystrikingly.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "guardian.co.uk": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.129.111",
+                "ttl": 68,
+                "rrname": "guardian.co.uk",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "biglobe.ne.jp": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "35.71.148.173",
+                "ttl": 10140,
+                "rrname": "biglobe.ne.jp",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "apache.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.2.132",
+                "ttl": 1800,
+                "rrname": "apache.org",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "abcnews.go.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "65.8.178.22",
+                "ttl": 52,
+                "rrname": "abcnews.go.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "ria.ru": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "178.248.234.228",
+                "ttl": 120,
+                "rrname": "ria.ru",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "ftc.gov": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.7.50.71",
+                "ttl": 3,
+                "rrname": "ftc.gov",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "francetvinfo.fr": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "193.8.206.103",
+                "ttl": 86400,
+                "rrname": "francetvinfo.fr",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "gnu.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "209.51.188.116",
+                "ttl": 1800,
+                "rrname": "gnu.org",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "thenai.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "141.193.213.11",
+                "ttl": 50,
+                "rrname": "thenai.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "webnode.page": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "85.132.152.173",
+                "ttl": 300,
+                "rrname": "webnode.page",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "www.wix.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.1.84",
+                "ttl": 26,
+                "rrname": "wixpin.map.fastly.net",
+                "response_count": 7
+            }
+        ],
+        "response_count": 0
+    },
+    "surveymonkey.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "3.162.247.114",
+                "ttl": 16,
+                "rrname": "surveymonkey.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "it.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 180,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "disqus.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.128.134",
+                "ttl": 2646,
+                "rrname": "disqus.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "berkeley.edu": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "141.193.213.20",
+                "ttl": 69,
+                "rrname": "berkeley.edu",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "yelp.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "199.232.36.116",
+                "ttl": 18,
+                "rrname": "yelp.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "academia.edu": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.158.147.45",
+                "ttl": 49,
+                "rrname": "academia.edu",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "amazon.fr": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "52.95.120.39",
+                "ttl": 39,
+                "rrname": "amazon.fr",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "themeforest.net": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.18.43.76",
+                "ttl": 104,
+                "rrname": "themeforest.net",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "search.yahoo.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "66.218.84.137",
+                "ttl": 101,
+                "rrname": "ds-global3.l7.search.ystg1.b.yahoo.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "picasa.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.132.4",
+                "ttl": 300,
+                "rrname": "www2.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "discord.gg": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "162.159.136.234",
+                "ttl": 22,
+                "rrname": "discord.gg",
+                "response_count": 5
+            }
+        ],
+        "response_count": 0
+    },
+    "lefigaro.fr": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "92.123.8.10",
+                "ttl": 12,
+                "rrname": "lefigaro.fr",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "usnews.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.5.23.30",
+                "ttl": 10,
+                "rrname": "usnews.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "mega.nz": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "31.216.144.5",
+                "ttl": 51,
+                "rrname": "mega.nz",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "fb.me": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "157.240.222.35",
+                "ttl": 210,
+                "rrname": "fb.me",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "calendar.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.78",
+                "ttl": 32,
+                "rrname": "calendar.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "clarin.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.18.7.141",
+                "ttl": 145,
+                "rrname": "clarin.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "www.over-blog.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "185.128.239.44",
+                "ttl": 1794,
+                "rrname": "over-blog.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "disney.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "130.211.198.204",
+                "ttl": 161,
+                "rrname": "disney.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "gmail.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.133",
+                "ttl": 272,
+                "rrname": "gmail.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "sedoparking.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "64.190.63.136",
+                "ttl": 3600,
+                "rrname": "sedoparking.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "alibaba.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "47.246.131.30",
+                "ttl": 118,
+                "rrname": "alibaba.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "ja.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 600,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "whitehouse.gov": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "192.0.66.168",
+                "ttl": 13,
+                "rrname": "whitehouse.gov",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "express.co.uk": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "13.227.126.109",
+                "ttl": 40,
+                "rrname": "express.co.uk",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "google.ru": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.128.67",
+                "ttl": 75,
+                "rrname": "google.ru",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "deezer.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "18.67.129.118",
+                "ttl": 33,
+                "rrname": "deezer.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "mashable.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.64.154.38",
+                "ttl": 260,
+                "rrname": "mashable.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "id.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 600,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "detik.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "203.190.242.211",
+                "ttl": 300,
+                "rrname": "detik.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "doi.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.26.9.237",
+                "ttl": 43,
+                "rrname": "doi.org",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "twitch.tv": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.66.167",
+                "ttl": 2683,
+                "rrname": "twitch.tv",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "foxnews.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.218.189.109",
+                "ttl": 3018,
+                "rrname": "foxnews.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "outlook.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "52.96.172.98",
+                "ttl": 275,
+                "rrname": "outlook.com",
+                "response_count": 9
+            }
+        ],
+        "response_count": 0
+    },
+    "pl.wikipedia.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "208.80.153.224",
+                "ttl": 600,
+                "rrname": "dyna.wikimedia.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "hubspot.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.19.155.83",
+                "ttl": 165,
+                "rrname": "hubspot.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "cnil.fr": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "46.18.194.45",
+                "ttl": 184,
+                "rrname": "cnil.fr",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "skype.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "20.231.239.246",
+                "ttl": 1972,
+                "rrname": "skype.com",
+                "response_count": 5
+            }
+        ],
+        "response_count": 0
+    },
+    "google.ca": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.250.219.131",
+                "ttl": 191,
+                "rrname": "google.ca",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "variety.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "192.0.66.176",
+                "ttl": 170,
+                "rrname": "variety.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "vkontakte.ru": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "87.240.132.78",
+                "ttl": 900,
+                "rrname": "vkontakte.ru",
+                "response_count": 6
+            }
+        ],
+        "response_count": 0
+    },
+    "google.pl": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.131",
+                "ttl": 169,
+                "rrname": "google.pl",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "sendspace.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.64.104.11",
+                "ttl": 300,
+                "rrname": "sendspace.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "stanford.edu": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "171.67.215.200",
+                "ttl": 1198,
+                "rrname": "stanford.edu",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "sakura.ne.jp": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "163.43.179.80",
+                "ttl": 3600,
+                "rrname": "sakura.ne.jp",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "android.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "216.58.222.4",
+                "ttl": 31,
+                "rrname": "android.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "wikihow.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.65.91",
+                "ttl": 62887,
+                "rrname": "wikihow.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "theverge.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.193.91",
+                "ttl": 4,
+                "rrname": "theverge.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "eventbrite.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "52.84.125.96",
+                "ttl": 36,
+                "rrname": "eventbrite.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "about.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "151.101.194.137",
+                "ttl": 407,
+                "rrname": "about.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "frontiersin.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "20.105.75.30",
+                "ttl": 169,
+                "rrname": "frontiersin.org",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "java.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "2.16.197.82",
+                "ttl": 2,
+                "rrname": "java.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "bestfreecams.club": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.67.152.30",
+                "ttl": 300,
+                "rrname": "bestfreecams.club",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "narod.ru": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "195.216.243.246",
+                "ttl": 14400,
+                "rrname": "narod.ru",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "jstor.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.0.152",
+                "ttl": 3600,
+                "rrname": "jstor.org",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "justgiving.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "65.8.214.119",
+                "ttl": 5,
+                "rrname": "justgiving.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "groups.yahoo.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "200.152.164.204",
+                "ttl": 60,
+                "rrname": "edge.gycpi.b.yahoodns.net",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "theconversation.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.2.132",
+                "ttl": 16324,
+                "rrname": "theconversation.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "mailchimp.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.35.176.82",
+                "ttl": 5,
+                "rrname": "mailchimp.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "feedproxy.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.206",
+                "ttl": 300,
+                "rrname": "www4.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "bmj.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "13.227.126.76",
+                "ttl": 4,
+                "rrname": "bmj.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "ubuntu.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "185.125.190.20",
+                "ttl": 60,
+                "rrname": "ubuntu.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "deloitte.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "170.194.156.208",
+                "ttl": 1051,
+                "rrname": "deloitte.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "com.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "45.79.19.196",
+                "ttl": 86,
+                "rrname": "com.com",
+                "response_count": 12
+            }
+        ],
+        "response_count": 0
+    },
+    "welt.de": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "195.50.178.200",
+                "ttl": 262,
+                "rrname": "welt.de",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "focus.de": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "92.123.10.229",
+                "ttl": 5,
+                "rrname": "focus.de",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "howstuffworks.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.139.182.97",
+                "ttl": 54,
+                "rrname": "howstuffworks.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "tvtropes.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "18.165.83.82",
+                "ttl": 35,
+                "rrname": "tvtropes.org",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "asahi.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.65.138.93",
+                "ttl": 11,
+                "rrname": "asahi.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "businesswire.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.212.86.36",
+                "ttl": 8,
+                "rrname": "businesswire.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "parallels.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "195.214.234.136",
+                "ttl": 1933,
+                "rrname": "parallels.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "prnewswire.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "104.18.32.115",
+                "ttl": 140,
+                "rrname": "prnewswire.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "histats.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "54.36.111.118",
+                "ttl": 300,
+                "rrname": "histats.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "google.com.au": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.250.219.35",
+                "ttl": 194,
+                "rrname": "google.com.au",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "rottentomatoes.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.194.243.175",
+                "ttl": 90,
+                "rrname": "rottentomatoes.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "psu.edu": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "99.83.249.53",
+                "ttl": 43200,
+                "rrname": "psu.edu",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "goo.ne.jp": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "114.179.184.93",
+                "ttl": 268,
+                "rrname": "goo.ne.jp",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "namebright.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.22.50.157",
+                "ttl": 12,
+                "rrname": "namebright.com",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "scientificamerican.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.129.55",
+                "ttl": 244,
+                "rrname": "scientificamerican.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "liberation.fr": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "99.86.91.29",
+                "ttl": 25,
+                "rrname": "liberation.fr",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "amazon.ca": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "54.239.19.238",
+                "ttl": 52,
+                "rrname": "amazon.ca",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "amazon.in": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "52.95.116.115",
+                "ttl": 60,
+                "rrname": "amazon.in",
+                "response_count": 3
+            }
+        ],
+        "response_count": 0
+    },
+    "justice.gov": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "149.101.82.100",
+                "ttl": 407,
+                "rrname": "justice.gov",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "google.co.th": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.163",
+                "ttl": 235,
+                "rrname": "google.co.th",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "storage.canalblog.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "195.137.184.113",
+                "ttl": 1950,
+                "rrname": "storage.canalblog.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "fifa.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "152.199.54.26",
+                "ttl": 1328,
+                "rrname": "fifa.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "waze.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "130.211.9.172",
+                "ttl": 33,
+                "rrname": "waze.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "api.wakatime.com": {
+        "count": 4,
+        "responses": [
+            {
+                "ip": "143.244.210.202",
+                "ttl": 0,
+                "rrname": "api.wakatime.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "metro.co.uk": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "192.0.66.24",
+                "ttl": 7200,
+                "rrname": "metro.co.uk",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "gitlab.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.65.251.78",
+                "ttl": 80,
+                "rrname": "gitlab.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "web.fc2.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "104.244.99.20",
+                "ttl": 300,
+                "rrname": "chps-web.fc2.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "stuff.co.nz": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.158.147.122",
+                "ttl": 59,
+                "rrname": "stuff.co.nz",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "note.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "3.162.247.12",
+                "ttl": 60,
+                "rrname": "note.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "patreon.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.16.6.49",
+                "ttl": 147,
+                "rrname": "patreon.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "bustle.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.158.147.107",
+                "ttl": 42,
+                "rrname": "bustle.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "pewresearch.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "192.0.66.2",
+                "ttl": 85,
+                "rrname": "pewresearch.org",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "vox.com": {
+        "count": 22,
+        "responses": [
+            {
+                "ip": "151.101.193.52",
+                "ttl": 3049,
+                "rrname": "vox.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "nikkei.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "13.248.148.206",
+                "ttl": 271,
+                "rrname": "nikkei.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "imgur.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "199.232.192.193",
+                "ttl": 77829,
+                "rrname": "imgur.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "google.co.in": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.132.227",
+                "ttl": 167,
+                "rrname": "google.co.in",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "g.co": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.132.14",
+                "ttl": 37,
+                "rrname": "g.co",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "gettyimages.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "3.162.247.63",
+                "ttl": 22,
+                "rrname": "gettyimages.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "leparisien.fr": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "35.71.153.23",
+                "ttl": 43200,
+                "rrname": "leparisien.fr",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "allaboutcookies.org": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "104.20.200.67",
+                "ttl": 117,
+                "rrname": "allaboutcookies.org",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "weather.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.10.57.228",
+                "ttl": 15,
+                "rrname": "weather.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "hbr.org": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "18.67.145.102",
+                "ttl": 32,
+                "rrname": "hbr.org",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "bp3.blogger.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.110",
+                "ttl": 300,
+                "rrname": "bloggerphotos.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "marketwatch.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "108.139.182.77",
+                "ttl": 52,
+                "rrname": "marketwatch.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "scholastic.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "204.74.99.101",
+                "ttl": 161,
+                "rrname": "scholastic.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "salesforce.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "104.109.10.129",
+                "ttl": 119,
+                "rrname": "salesforce.com",
+                "response_count": 8
+            }
+        ],
+        "response_count": 0
+    },
+    "lycos.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "209.202.254.90",
+                "ttl": 231,
+                "rrname": "lycos.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "billboard.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "192.0.66.192",
+                "ttl": 199,
+                "rrname": "billboard.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "ads.google.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "142.251.129.46",
+                "ttl": 237,
+                "rrname": "ads.google.com",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "digitaloceanspaces.com": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "104.18.12.192",
+                "ttl": 197,
+                "rrname": "digitaloceanspaces.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "thoughtco.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.2.137",
+                "ttl": 280,
+                "rrname": "thoughtco.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "cbslocal.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.1.188",
+                "ttl": 189,
+                "rrname": "cbslocal.com",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "pinterest.de": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "151.101.128.84",
+                "ttl": 592,
+                "rrname": "pinterest.de",
+                "response_count": 4
+            }
+        ],
+        "response_count": 0
+    },
+    "jhu.edu": {
+        "count": 21,
+        "responses": [
+            {
+                "ip": "128.220.192.230",
+                "ttl": 150,
+                "rrname": "jhu.edu",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "interia.pl": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "217.74.75.90",
+                "ttl": 3600,
+                "rrname": "interia.pl",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "google.com.tw": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "172.217.28.227",
+                "ttl": 42,
+                "rrname": "google.com.tw",
+                "response_count": 1
+            }
+        ],
+        "response_count": 0
+    },
+    "ameblo.jp": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "199.232.210.133",
+                "ttl": 16,
+                "rrname": "ameblo.jp",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "rediff.com": {
+        "count": 20,
+        "responses": [
+            {
+                "ip": "23.200.66.146",
+                "ttl": 300,
+                "rrname": "rediff.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    },
+    "bp0.blogger.com": {
+        "count": 11,
+        "responses": [
+            {
+                "ip": "142.251.129.110",
+                "ttl": 300,
+                "rrname": "bloggerphotos.l.google.com",
+                "response_count": 2
+            }
+        ],
+        "response_count": 0
+    }
+}
