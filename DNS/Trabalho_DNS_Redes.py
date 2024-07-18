@@ -99,7 +99,7 @@ def save_to_json(data, filename):
         json.dump(data, json_file, indent=4)
 
 if __name__ == "__main__":
-    pcap_file = "C:/xampp/htdocs/DNS_Redes/dns.pcap"
+    pcap_file = "dns.pcap"
     output_file = "site/dns_data.json"
     dns_data = process_pcap(pcap_file)
     save_to_json(dns_data, output_file)
