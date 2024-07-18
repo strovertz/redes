@@ -1,0 +1,146 @@
+{
+    "10.1.1.1": {
+        "requests": [
+            {
+                "uri": "/",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://10.1.1.1/",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/Websidan/index.html",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://10.1.1.1/Websidan/index.html",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/Websidan/images/bg2.jpg",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://10.1.1.1/Websidan/images/bg2.jpg",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/Websidan/images/sydney.jpg",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://10.1.1.1/Websidan/images/sydney.jpg",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/Websidan/dagbok/dagbok.html",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://10.1.1.1/Websidan/dagbok/dagbok.html",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/Websidan/dagbok/2004/dagbok.html",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://10.1.1.1/Websidan/dagbok/2004/dagbok.html",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/Websidan/dagbok/2004/28/dagbok.html",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://10.1.1.1/Websidan/dagbok/2004/28/dagbok.html",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/Websidan/2004-07-SeaWorld/320/DSC07858.JPG",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://10.1.1.1/Websidan/2004-07-SeaWorld/320/DSC07858.JPG",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/Websidan/2004-07-SeaWorld/320/DSC07859.JPG",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://10.1.1.1/Websidan/2004-07-SeaWorld/320/DSC07859.JPG",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/Websidan/2004-07-SeaWorld/fullsize/DSC07858.JPG",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://10.1.1.1/Websidan/2004-07-SeaWorld/fullsize/DSC07858.JPG",
+                "file_data_size": 0
+            }
+        ],
+        "count": 10
+    },
+    "ins1.opera.com": {
+        "requests": [
+            {
+                "uri": "/scripts/cms/xcms.asp",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://ins1.opera.com/scripts/cms/xcms.asp",
+                "file_data_size": 0
+            }
+        ],
+        "count": 1
+    },
+    "opera1-servedby.advertising.com": {
+        "requests": [
+            {
+                "uri": "/site=126885/bnum=opera1/bins=1/opid=10030285/ver=711/dst=Win_700",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://opera1-servedby.advertising.com/site=126885/bnum=opera1/bins=1/opid=10030285/ver=711/dst=Win_700",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/site=0000127709/mnum=0000162763/genr=1/logs=0/mdtm=1077726643/bins=1",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://opera1-servedby.advertising.com/site=0000127709/mnum=0000162763/genr=1/logs=0/mdtm=1077726643/bins=1",
+                "file_data_size": 0
+            }
+        ],
+        "count": 2
+    },
+    "opera2-servedby.advertising.com": {
+        "requests": [
+            {
+                "uri": "/site=126885/bnum=opera2/bins=1/opid=10030867/ver=711/dst=Win_700",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://opera2-servedby.advertising.com/site=126885/bnum=opera2/bins=1/opid=10030867/ver=711/dst=Win_700",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/site=0000127709/mnum=0000162763/genr=1/logs=0/mdtm=1077726643/bins=1",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://opera2-servedby.advertising.com/site=0000127709/mnum=0000162763/genr=1/logs=0/mdtm=1077726643/bins=1",
+                "file_data_size": 0
+            }
+        ],
+        "count": 2
+    },
+    "opera3-servedby.advertising.com": {
+        "requests": [
+            {
+                "uri": "/site=126885/bnum=opera3/bins=1/opid=10032112/ver=711/dst=Win_700",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://opera3-servedby.advertising.com/site=126885/bnum=opera3/bins=1/opid=10032112/ver=711/dst=Win_700",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/site=0000127709/mnum=0000162763/genr=1/logs=0/mdtm=1077726643/bins=1",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://opera3-servedby.advertising.com/site=0000127709/mnum=0000162763/genr=1/logs=0/mdtm=1077726643/bins=1",
+                "file_data_size": 0
+            }
+        ],
+        "count": 2
+    },
+    "opera4-servedby.advertising.com": {
+        "requests": [
+            {
+                "uri": "/site=126885/bnum=opera4/bins=1/opid=10003005/ver=711/dst=Win_700",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://opera4-servedby.advertising.com/site=126885/bnum=opera4/bins=1/opid=10003005/ver=711/dst=Win_700",
+                "file_data_size": 0
+            },
+            {
+                "uri": "/site=0000127709/mnum=0000162766/genr=1/logs=0/mdtm=1077726645/bins=1",
+                "source_ip": "10.1.1.101",
+                "full_url": "http://opera4-servedby.advertising.com/site=0000127709/mnum=0000162766/genr=1/logs=0/mdtm=1077726645/bins=1",
+                "file_data_size": 0
+            }
+        ],
+        "count": 2
+    }
+}
